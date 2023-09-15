@@ -3,5 +3,6 @@
  
 archive of my studies : JavaScript, SQL(Oracle SQL Developer), HTML, CSS, C/C++
 
->[Project] [todoList (**JS**, HTML)](https://github.com/etersh/studyNotes/tree/main/nomad/todoList)  
->[Study] [Udemy - Crash Course - Jonas Schmedtmann (**CSS**) ](https://github.com/etersh/studyNotes/tree/main/udemy/crashCourse)
+>[project] [Nomad](https://github.com/etersh/studyNotes/tree/main/nomad)  
+>[study/project] [Udemy](https://github.com/etersh/studyNotes/tree/main/udemy)  
+>[school] [Seneca](https://github.com/etersh/studyNotes/tree/main/seneca)
